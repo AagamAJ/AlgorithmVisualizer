@@ -104,18 +104,9 @@ The "Algorithm Visualizer" project allows users to:
 ## Acknowledgements
 
 I took inspirations from the following sources for some of the segments.
-  - ``
-    PathFinder
-    ``
-    :  [Projects That got me in Google](https://youtu.be/n4t_-NjY_Sg)
-  - ``
-    Archimedes Spiral for Primes
-    ``
-    :  [Why do Prime Numbers make these Spirals](https://youtu.be/EK32jo7i5LQ)
-  - ``
-    Recursion Tree Visualizer
-    ``
-    :  [Recursion Tree Visualizer](https://github.com/brpapa/recursion-tree-visualizer)
+  - `PathFinder` :  [Projects That got me in Google](https://youtu.be/n4t_-NjY_Sg)
+  - `Archimedes Spiral for Primes` :  [Why do Prime Numbers make these Spirals](https://youtu.be/EK32jo7i5LQ)
+  - `Recursion Tree Visualizer` :  [Recursion Tree Visualizer](https://github.com/brpapa/recursion-tree-visualizer)
   
 
 ## Contributing
